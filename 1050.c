@@ -41,6 +41,6 @@ int main()
         break;
 
         default:
-        printf("nao cadastrado\n");
+        printf("DDD nao cadastrado\n");
     }
 }
