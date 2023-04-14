@@ -1,7 +1,4 @@
 #include <stdio.h>
-#define oito 2
-#define dezoito 18
-#define vinte_oi 28
 
 int main()
 {
